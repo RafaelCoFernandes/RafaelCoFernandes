@@ -14,6 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafael-fernandes-qa1997
 )](www.linkedin.com/in/rafael-fernandes-qa1997)
 
-:punch: Obrigado por Visitar.
+:wrench: Obrigado por Visitar.
 
 ----------------------------------------------------------------------------------
