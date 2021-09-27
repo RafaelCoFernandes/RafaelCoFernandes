@@ -4,9 +4,9 @@
 
 :computer: QA, Entusiasta em programação!
 
-:house: Atualmente resido no Brasil, São Paulo.
+:house: Atualmente resido em São Paulo, Brasil.
 
-:books: Disposto a sempre absorver novos conhecimentos.
+:books: Em constante desenvolvimento.
 
 ## Sobre mim
 
